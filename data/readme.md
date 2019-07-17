@@ -6,4 +6,5 @@ Taken from Kaggle: [Medical Cost Personal Dataset](https://www.kaggle.com/mirich
 
 
 #### speedhome.csv
-Web scrape from [Speedhome](https://speedhome.com/rent)
+Data is web scraped by myself from [Speedhome](https://speedhome.com/rent)
+The script can be found in speedhomescraper.ipynb
