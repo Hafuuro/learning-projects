@@ -7,4 +7,4 @@ If opening the Jupyter notebook failed on github, use this link to view it [Jupy
 
 1. [Medical Cost](https://nbviewer.jupyter.org/github/ahmadhafifihamdan/learning-projects/blob/master/medical_cost/Medical%20Cost.ipynb)
 2. * [Speedhome Scraping](https://nbviewer.jupyter.org/github/ahmadhafifihamdan/learning-projects/blob/master/speedhomerental/SpeedHome-Scraping.ipynb)
-  * [Speedhome Rental](https://nbviewer.jupyter.org/github/ahmadhafifihamdan/learning-projects/blob/master/speedhomerental/SpeedHome-Rental.ipynb)
+   * [Speedhome Rental](https://nbviewer.jupyter.org/github/ahmadhafifihamdan/learning-projects/blob/master/speedhomerental/SpeedHome-Rental.ipynb)
